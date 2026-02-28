@@ -23,18 +23,6 @@ A sleek, functional single-page application (SPA) built with **React JS** to hel
 
 ---
 
-## 📋 Requirements & Implementation
-
-| Requirement | Tech/Logic Used |
-| :--- | :--- |
-| **State Management** | `useState` for managing the expense list and form inputs. |
-| **Controlled Forms** | All inputs are bound to React state for a "single source of truth." |
-| **Component Design** | Modular functional components with a focus on reusability. |
-| **Validation** | Inline error messaging and logic-gated submission. |
-| **Data Flow** | One-way data flow from parent state to children via props. |
-
----
-
 ## 🏗️ Architecture & Data Strategy
 
 ### **Current Data Handling**
